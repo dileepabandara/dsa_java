@@ -1,9 +1,10 @@
 # Data Structure and Algorithms using Java
 
+## Contents
 
-# Object Oriented Programming
+### 02 - Object Oriented Programming
 
-## Steps
+Steps
 
 01 - Class Example (ClassExample.java)  
 02 - Object Example (ObjectExample.java)  
