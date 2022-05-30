@@ -3,18 +3,18 @@ package ObjectOrientedProgramming;
 public class MethodOverloading {
 
     public static void main(String[] args) {
-        method1();
-        method1(15);
+        createMethod();
+        createMethod("createMethod()");
     }
 
 
     // Create 2 methods with same name and different parameters
-    static void method1() {
-        System.out.println("Method 1");
+    static void createMethod() {
+        System.out.println("Method Name: createMethod()");
     }
 
-    static void method1(int x) {
-        System.out.println("Method 1: " + x);
+    static void createMethod(String methodName) {
+        System.out.println("Method Name: " + methodName);
     }
 
 }
