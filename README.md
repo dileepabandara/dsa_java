@@ -20,9 +20,13 @@ This **dsa_java** repository includes the data structure and algorithms beginn
 [01 - Programming Basics](https://github.com/dileepabandara/dsa_java/tree/main/01-Programming-Basics/src)
 
 - **Object Oriented Programming**  
-  Part A - Class Example (ClassExample.java)  
-  Part B - Object Example (ObjectExample.java)  
-  Part C - Constructor Example (ConstructorExample.java)
+  01 - Basic Standards (BasicStandards.java)  
+  02 - Classes and Objects (ClassesAndObjects.java)  
+  03 - Constructor (Constructor.java)  
+  04 - MethodOverloading (MethodOverloading.java)  
+  05 - Inheritance (Inheritance.java)  
+  06 - AccessModifiers (AccessModifiers.java  
+  07 - MethodOverriding (MethodOverriding.java)
 
 [02 - Arrays & Matrix](https://github.com/dileepabandara/dsa_java/tree/main/02-PDSA-Arrays-%26-Matrix/src/Arrays)
 
