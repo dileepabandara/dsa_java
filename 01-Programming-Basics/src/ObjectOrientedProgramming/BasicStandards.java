@@ -3,7 +3,7 @@ package ObjectOrientedProgramming;
 public class BasicStandards {
 
     // Void Method
-    static void workMode(){
+    static void workMode() {
         System.out.println("Work Mode Method");
     }
 

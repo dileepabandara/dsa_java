@@ -18,8 +18,7 @@ public class Constructor {
 
     public static void main(String[] args) {
         Constructor obj1 = new Constructor();
-        Constructor obj2 =
-                new Constructor("parameterized constructor", 2);
+        Constructor obj2 = new Constructor("parameterized constructor", 2);
         System.out.println(obj1.name + " " + obj1.id);
         System.out.println(obj2.name + " " + obj2.id);
     }
