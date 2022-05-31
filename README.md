@@ -19,6 +19,24 @@ This **dsa_java** repository includes the data structure and algorithms beginn
 
 [01 - Programming Basics](https://github.com/dileepabandara/dsa_java/tree/main/01-Programming-Basics/src)
 
+- **HelloWorld**  
+  01 - Hello World (HelloWorld.java)
+
+- **Exceptions**  
+  01 - Char Exceptions (CharEx.java)  
+  02 - Example Exception (ExampleException.java)  
+  03 - Exception Matching (ExceptionMatching.java)
+
+- **Threads**  
+  01 - Example Thread (ExampleThread.java)  
+  02 - Example Thread 2 (ExampleThread2.java)  
+  03 - Example Runnable (ExampleRunnable.java)  
+  04 - With Multi Threading (WithMultiThreading.java)  
+  05 - Without Multi Threading (WithoutMultiThreading.java)
+
+- **Event Handling**  
+  01 - User Interaction (UserInteraction.java)
+
 - **Object Oriented Programming**
 
   01 - Basic Standards (BasicStandards.java)  
