@@ -17,7 +17,7 @@ This **dsa_java** repository includes the data structure and algorithms beginn
 
 ## 🎒 Contents
 
-[01 - Programming Basics](https://github.com/dileepabandara/dsa_java/tree/main/01-Programming-Basics/src)
+[01 - Programming Basics](https://github.com/dileepabandara/dsa_java/tree/main/01-Programming-Basics)
 
 - **HelloWorld**  
   01 - Hello World (HelloWorld.java)
@@ -50,7 +50,11 @@ This **dsa_java** repository includes the data structure and algorithms beginn
   09 - Upcast & Downcast (UpcastDowncast.java)  
   10 - Polymorphism (Polymorphism.java)
 
-[02 - Arrays & Matrix](https://github.com/dileepabandara/dsa_java/tree/main/02-PDSA-Arrays-%26-Matrix/src/Arrays)
+[02 - Arrays & Matrix](https://github.com/dileepabandara/dsa_java/tree/main/02-PDSA-Arrays-%26-Matrix)
+
+- **Updating...**  
+
+[03 - Linked List](https://github.com/dileepabandara/dsa_java/tree/main/03-Linked-List)
 
 - **Updating...**  
 
