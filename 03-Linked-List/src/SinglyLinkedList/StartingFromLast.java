@@ -22,10 +22,10 @@ public class StartingFromLast {
         display(head);
     }
 
-    static void display(Node currNode) {
-        while (currNode != null) {
-            System.out.println("Value:" + currNode.data);
-            currNode = currNode.next;
+    static void display(Node currentNode) {
+        while (currentNode != null) {
+            System.out.println("Value:" + currentNode.data);
+            currentNode = currentNode.next;
         }
     }
 }
