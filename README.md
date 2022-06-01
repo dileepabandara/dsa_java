@@ -50,7 +50,7 @@ This **dsa_java** repository includes the data structure and algorithms beginn
   09 - Upcast & Downcast (UpcastDowncast.java)  
   10 - Polymorphism (Polymorphism.java)
 
-[02 - Arrays & Matrix](https://github.com/dileepabandara/dsa_java/tree/main/02-PDSA-Arrays-%26-Matrix)
+[02 - Arrays & Matrix](https://github.com/dileepabandara/dsa_java/tree/main/02-Arrays-Matrix)
 
 - **Updating...**  
 
