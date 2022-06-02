@@ -18,12 +18,12 @@ public class StartingFromHead {
 
     public static void main(String[] args) {
         head = new Node(1);
-        Node second = new Node(2);
-        Node third = new Node(3);
-        head.next = second;
-        second.prev = head;
-        second.next = third;
-        third.prev = second;
+        Node node2 = new Node(2);
+        Node node3 = new Node(3);
+        head.next = node2;
+        node2.prev = head;
+        node2.next = node3;
+        node3.prev = node2;
         display(head);
     }
 
