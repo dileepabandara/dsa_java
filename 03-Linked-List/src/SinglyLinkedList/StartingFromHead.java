@@ -14,6 +14,13 @@ public class StartingFromHead {
         }
     }
 
+    static void display(Node currentNode) {
+        while (currentNode != null) {
+            System.out.println("Value:" + currentNode.data);
+            currentNode = currentNode.next;
+        }
+    }
+
     public static void main(String[] args) {
         head = new Node(1);
         Node node2 = new Node(2);
@@ -21,13 +28,7 @@ public class StartingFromHead {
 
         head.next = node2;
         node2.next = node3;
-        display(head);
-    }
 
-    static void display(Node currentNode) {
-        while (currentNode != null) {
-            System.out.println("Value:" + currentNode.data);
-            currentNode = currentNode.next;
-        }
+        display(head);
     }
 }

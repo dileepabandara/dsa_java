@@ -21,7 +21,6 @@ public class AddFirst {
 
     }
 
-
     public static void addFirst(int item) {
         head = new Node(item, head);
     }
@@ -37,6 +36,7 @@ public class AddFirst {
         head = new Node(2);
         Node node2 = new Node(3);
         Node node3 = new Node(4);
+
         head.next = node2;
         node2.next = node3;
 

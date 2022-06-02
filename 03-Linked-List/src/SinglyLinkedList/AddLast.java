@@ -18,7 +18,6 @@ public class AddLast {
         }
     }
 
-
     public static void addFirst(int item) {
         head = new Node(item, head);
     }
@@ -46,10 +45,13 @@ public class AddLast {
         head = new Node(1);
         Node node2 = new Node(2);
         Node node3 = new Node(3);
+
         head.next = node2;
         node2.next = node3;
+
         // addFirst(0);
         addLast(4);
+
         Display(head);
     }
 

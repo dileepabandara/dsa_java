@@ -40,7 +40,9 @@ public class InsertAfter {
         addFirst(4);
         addFirst(3);
         addFirst(1);
+
         insertAfter(3, 2);
+
         display(head);
     }
 
