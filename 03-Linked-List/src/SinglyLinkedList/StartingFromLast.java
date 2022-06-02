@@ -15,10 +15,10 @@ public class StartingFromLast {
     }
 
     public static void main(String[] args) {
-        Node temp = new Node(17, null);
-        temp = new Node(23, temp);
-        temp = new Node(97, temp);
-        head = new Node(44, temp);
+        Node temp = new Node(4, null);
+        temp = new Node(3, temp);
+        temp = new Node(2, temp);
+        head = new Node(1, temp);
         display(head);
     }
 
