@@ -28,7 +28,7 @@ public class AddFirst {
 
     static void display(Node currentNode) {
         while (currentNode != null) {
-            System.out.println(currentNode.data);
+            System.out.println("Value:" + currentNode.data);
             currentNode = currentNode.next;
         }
     }
